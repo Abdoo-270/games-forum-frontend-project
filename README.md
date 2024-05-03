@@ -10,7 +10,7 @@ git clone https://github.com/Abdoo-270/games-forum-frontend-project.git
 2. Navigate to the project directory:
 
 ```bash
-cd ShopShine-Frontend
+cd games-forum-frontend-project
 
 ```
 
