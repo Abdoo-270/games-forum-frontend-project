@@ -3,7 +3,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Abdoo-270/ShopShine-Frontend
+git clone https://github.com/Abdoo-270/games-forum-frontend-project.git
 
 ```
 
